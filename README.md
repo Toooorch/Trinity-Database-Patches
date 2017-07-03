@@ -5,3 +5,4 @@ Current progress:
 - Dalaran spawns and npc corrections
 
 Done:
+- Forsaken Guard locations
