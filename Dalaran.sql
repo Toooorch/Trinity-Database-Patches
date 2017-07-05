@@ -76,4 +76,41 @@ INSERT INTO `creature_equip_template` (`CreatureID`, `ID`, `ItemID1`, `ItemID2`,
 (101846, 1, 17041, 0, 0), -- Nomi
 (96803, 1, 2703, 13859, 0), -- Mimbihi
 (112079, 1, 44091, 0, 0), -- Crimson Pilgrim
-(96802, 1, 2703, 13859, 0); -- Umbiwa
+(96802, 1, 2703, 13859, 0), -- Umbiwa
+(113813, 1, 43093, 0, 0), -- Lieutenant Sinclari
+(102266, 1, 43091, 43092, 0), -- Violet Hold Guard
+(94197, 1, 43091, 43092, 0), -- Violet Hold Guard
+(96444, 1, 43091, 43092, 0), -- Violet Hold Guard
+(111246, 1, 38298, 0, 0), -- Archmage Timear
+(113785, 1, 12182, 0, 0), -- Hugh Mann
+(111243, 1, 34884, 0, 0), -- Archmage Lan'dalock
+(97012, 1, 0, 0, 6231), -- Abra Cadabra
+(113779, 1, 2183, 2183, 0), -- Sister Might
+(95844, 1, 1117, 0, 0), -- Marcia Chase
+(113782, 1, 25839, 0, 0), -- Hannis Shoalwalker
+(108628, 1, 118129, 0, 0), -- Armond Thaco
+(97500, 1, 119448, 0, 0), -- Hunaka Greenhoof
+(106930, 1, 57038, 0, 0), -- Lieutenant Surtees
+(90417, 1, 28067, 0, 0), -- Archmage Khadgar
+(92457, 1, 3699, 12870, 0), -- Patricia Egan
+(113873, 1, 0, 113270, 0), -- Archivist Elysiana
+(90418, 1, 35781, 0, 0), -- Archmage Modera
+(90431, 1, 12182, 0, 0), -- Archmage Ansirem Runeweaver
+(96944, 1, 12328, 0, 0), -- Muran Fairden
+(96792, 1, 13861, 13862, 0), -- Inzi Charmlight
+(113784, 1, 18822, 0, 0), -- Classic Larry
+(90463, 1, 50725, 0, 0), -- Archmage Karlain
+(96949, 1, 29694, 0, 0), -- Farseer Lopaa
+(96793, 1, 2705, 0, 0), -- Stefen Cotter
+(96947, 1, 13751, 0, 0), -- Matron Nessa
+(96948, 1, 17283, 17282, 0), -- Pathstalker Gilen
+(119226, 1, 29156, 117413, 0), -- Danath Trollbane
+(96950, 1, 19987, 0, 0), -- Summoner Mazek
+(96945, 1, 0, 0, 94658), -- Ranger Bodine
+(96791, 1, 13861, 13862, 0), -- Marcella Bloom
+(97213, 1, 0, 0, 4547), -- Windle Sparkshine
+(96946, 1, 13160, 0, 0), -- Varlean
+(96951, 1, 34292, 0, 0), -- Naseev
+(96772, 1, 0, 0, 6231), -- Warmage Kath'leen
+(112720, 1, 140669, 0, 0), -- Jemma Wilson
+(97493, 1, 124379, 0, 0); -- Narestel Palestar
