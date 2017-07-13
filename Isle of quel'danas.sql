@@ -1249,4 +1249,3 @@ UPDATE `gameobject_questitem` SET `VerifiedBuild`=24461 WHERE (`GameObjectEntry`
 
 
 UPDATE `npc_text` SET `VerifiedBuild`=24461 WHERE `ID`=12340; -- 12340
-
