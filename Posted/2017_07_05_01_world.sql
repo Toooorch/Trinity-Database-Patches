@@ -15,17 +15,13 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (97491, 0, 0, 0, 1, 0, ''), -- 97491 (Moon Priestess Nici)
 (96830, 0, 0, 0, 257, 0, ''), -- 96830 (Linda Ann Kastinglow)
 (96829, 0, 0, 0, 257, 0, ''), -- 96829 (Arcanist Alec)
-(121541, 0, 0, 0, 1, 0, '46598'), -- 121541 (Ban-Lu) - Ride Vehicle Hardcoded
-(97004, 0, 0, 0, 1, 0, '60913'), -- 97004 ("Red" Jack Findle) - [DND] Dalaran - Shop Keeper Greeting
 (113780, 0, 0, 0, 0, 0, ''), -- 113780 (Innocent Jim)
 (110642, 0, 0, 0, 1, 0, ''), -- 110642 (Fizzi Liverzapper)
 (111246, 0, 0, 0, 1, 0, ''), -- 111246 (Archmage Timear)
 (111243, 0, 0, 0, 1, 0, ''), -- 111243 (Archmage Lan'dalock)
-(96778, 0, 0, 0, 258, 0, '60913 61354'), -- 96778 (Aemara) - [DND] Dalaran - Shop Keeper Greeting, [DND] Dalaran - Shop Keeper Greeting
 (113785, 0, 0, 0, 0, 0, ''), -- 113785 (Hugh Mann)
 (96977, 0, 0, 0, 257, 0, ''), -- 96977 (Valerie Langrom)
 (96836, 0, 0, 0, 257, 0, ''), -- 96836 (Magus Fansy Goodbringer)
-(113779, 0, 0, 0, 0, 0, '42459'), -- 113779 (Sister Might) - Dual Wield
 (97012, 0, 0, 0, 257, 0, ''), -- 97012 (Abra Cadabra)
 (96837, 0, 0, 0, 257, 0, ''), -- 96837 (Babagahnoosh the Grumpy)
 (96978, 0, 0, 0, 257, 0, ''), -- 96978 (Rafael Langrom)
@@ -38,20 +34,16 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (95844, 0, 0, 0, 257, 0, ''), -- 95844 (Marcia Chase)
 (113782, 0, 0, 0, 1, 0, ''), -- 113782 (Hannis Shoalwalker)
 (96789, 0, 0, 0, 1, 0, ''), -- 96789 (Caliel Brightwillow)
-(103092, 0, 0, 0, 1, 0, '203826'), -- 103092 (The Great Akazamzarak) - Akazamzarak's Hat
 (35845, 0, 0, 0, 1, 0, ''), -- 35845 (Dave's Industrial Light and Magic Bunny (Small)(Sessile))
 (103116, 0, 0, 0, 1, 0, ''), -- 103116 (Dalaran Citizen)
 (97501, 0, 0, 0, 1, 0, ''), -- 97501 (Linzi Redgrin)
-(108938, 0, 0, 0, 1, 0, '215703'), -- 108938 (Lord Adder) - Hidden
 (96779, 0, 0, 0, 258, 0, ''), -- 96779 (Dagna Flintlock)
 (96777, 0, 0, 0, 258, 0, ''), -- 96777 (Jarold Puller)
-(108628, 0, 0, 0, 0, 0, '215919'), -- 108628 (Armond Thaco) - Truthguard Area Trigger
 (97514, 0, 0, 0, 1, 0, ''), -- 97514 (Danric the Bold)
 (96780, 0, 0, 0, 1, 0, ''), -- 96780 (Aerith Primrose)
 (97141, 0, 0, 0, 1, 0, ''), -- 97141 (Koraud)
 (97532, 0, 0, 0, 1, 0, ''), -- 97532 (Violetta)
 (97001, 0, 0, 0, 257, 0, ''), -- 97001 (Orton Bennet)
-(99350, 0, 0, 0, 1, 0, '223977'), -- 99350 (Shannon Noel) - Cosmetic - Reading Book
 (96810, 0, 0, 0, 257, 0, ''), -- 96810 (Archivist Betha)
 (96643, 0, 0, 0, 1, 0, ''), -- 96643 (Stabled Hunter Pet)
 (96786, 0, 0, 0, 257, 0, ''), -- 96786 (Archmage Celindra)
@@ -60,12 +52,9 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (98725, 0, 0, 0, 1, 0, ''), -- 98725 (Lio the Lioness)
 (92489, 0, 0, 0, 257, 0, ''), -- 92489 (Mei Francis)
 (98723, 0, 0, 0, 1, 0, ''), -- 98723 (Tiffy Trapspring)
-(113783, 0, 0, 0, 0, 0, '42459'), -- 113783 (Savash Windcalller) - Dual Wield
 (96639, 0, 0, 0, 1, 0, ''), -- 96639 (Stabled Hunter Pet)
-(107326, 0, 0, 0, 257, 0, '60913'), -- 107326 (Draemus) - [DND] Dalaran - Shop Keeper Greeting
 (121602, 0, 0, 0, 1, 0, ''), -- 121602 (Manapoof)
 (96507, 0, 0, 0, 257, 0, ''), -- 96507 (Tassia Whisperglen)
-(96479, 0, 0, 0, 257, 0, '60913 61354'), -- 96479 (Breanni) - [DND] Dalaran - Shop Keeper Greeting, [DND] Dalaran - Shop Keeper Greeting
 (115287, 0, 0, 0, 1, 0, ''), -- 115287 (Serr'ah)
 (96636, 0, 0, 0, 1, 0, ''), -- 96636 (Stabled Hunter Pet)
 (109554, 0, 0, 0, 1, 0, ''), -- 109554 (Altius Maximus)
@@ -77,7 +66,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (114232, 0, 0, 0, 257, 0, ''), -- 114232 (Grand Lightweaver Doane)
 (109387, 0, 0, 0, 1, 0, ''), -- 109387 (Beck)
 (96698, 0, 0, 0, 0, 0, ''), -- 96698 (Blood Knight)
-(58237, 0, 0, 0, 1, 0, '55474'), -- 58237 (Tweek) - Cosmetic - Sleep Zzz
 (96708, 0, 0, 0, 0, 0, ''), -- 96708 (Blood Knight)
 (120687, 0, 0, 0, 1, 0, ''), -- 120687 (Violet Shadowmend)
 (96635, 0, 0, 0, 1, 0, ''), -- 96635 (Stabled Hunter Pet)
@@ -86,8 +74,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (98724, 0, 0, 0, 1, 0, ''), -- 98724 (Giada Goldleash)
 (96641, 0, 0, 0, 1, 0, ''), -- 96641 (Stabled Hunter Pet)
 (96960, 0, 0, 0, 1, 0, ''), -- 96960 (High Arcanist Savor)
-(96956, 0, 0, 0, 0, 0, '10022'), -- 96956 (Pathstalker Rislar) - Deadly Poison
-(96955, 0, 0, 0, 0, 0, '48168'), -- 96955 (Matron Ossela) - Inner Fire
 (97500, 0, 0, 0, 1, 0, ''), -- 97500 (Hunaka Greenhoof)
 (96820, 0, 0, 0, 257, 0, ''), -- 96820 (Paymaster Alstein)
 (96817, 0, 0, 0, 257, 0, ''), -- 96817 (Teller Rames)
@@ -96,7 +82,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (96959, 0, 0, 0, 0, 0, ''), -- 96959 (Vinsun)
 (96958, 0, 0, 0, 0, 0, ''), -- 96958 (Summoner Calwen)
 (96953, 0, 0, 0, 0, 0, ''), -- 96953 (Ranger Eoss)
-(96954, 0, 0, 0, 0, 0, '79962'), -- 96954 (Nelur Lightsown) - Seal of Righteousness
 (119487, 0, 0, 0, 1, 0, ''), -- 119487 (Talia Direhorn)
 (119272, 0, 0, 0, 1, 0, ''), -- 119272 (Sarah the Savage)
 (103630, 0, 51048, 0, 1, 0, ''), -- 103630 (Elite Forsaken Guard)
@@ -104,19 +89,14 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (96842, 0, 0, 0, 257, 0, ''), -- 96842 (Archmage Tenaj)
 (119486, 0, 0, 0, 1, 0, ''), -- 119486 (Apothecary Lee)
 (113812, 0, 0, 0, 1, 0, ''), -- 113812 (Randall Goldsprocket)
-(96957, 0, 0, 0, 0, 0, '79892'), -- 96957 (Murgha the Tempered) - Water Shield
 (96952, 0, 0, 0, 0, 0, ''), -- 96952 (Hahna Moonscrest)
-(96782, 0, 0, 0, 1, 0, '210063'), -- 96782 (Lucian Trias) - Player Cleared
 (103626, 0, 0, 0, 1, 0, ''), -- 103626 (Forsaken Guard)
 (97490, 0, 0, 0, 1, 0, ''), -- 97490 (Halga Steelbarrow)
 (107622, 0, 0, 0, 1, 0, ''), -- 107622 (Glutonia)
-(108710, 0, 0, 33554432, 1, 0, '215900'), -- 108710 (Guardian Orb) - Guardian Orb
 (96785, 0, 0, 0, 257, 0, ''), -- 96785 (Christi Stockton)
 (96784, 0, 0, 0, 257, 0, ''), -- 96784 (Fialla Sweetberry)
 (107109, 0, 0, 0, 1, 0, ''), -- 107109 (Xur'ios)
 (96781, 0, 0, 0, 257, 0, ''), -- 96781 (Kizi Copperclip)
-(62821, 0, 0, 0, 1, 0, '122729 123236'), -- 62821 (Mystic Birdhat) - Grand Expedition Yak, Grummle Booth A
-(62822, 0, 0, 0, 1, 0, '122729 123240'), -- 62822 (Cousin Slowhands) - Grand Expedition Yak, Grummle Booth B
 (97518, 0, 0, 0, 1, 0, ''), -- 97518 (Saedelin Whitedawn)
 (97767, 0, 0, 0, 0, 0, ''), -- 97767 (Hexpriest)
 (92936, 0, 0, 0, 257, 0, ''), -- 92936 (Aimee)
@@ -124,33 +104,24 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (92438, 0, 0, 0, 257, 0, ''), -- 92438 (Glaciela Rimebang)
 (97792, 0, 0, 0, 0, 0, ''), -- 97792 (Sun Priest)
 (110020, 0, 0, 0, 1, 0, ''), -- 110020 (Bruiser Wrenchvolt)
-(110019, 0, 0, 0, 1, 0, '213811'), -- 110019 (Bruiser Toppleblade) - Hold Rifle
 (110018, 0, 0, 0, 1, 0, ''), -- 110018 (Gazrix Gearlock)
-(99185, 0, 0, 33554432, 1, 0, '78686'), -- 99185 (Coach) - Gold Mini Jouster Effects
 (105229, 0, 0, 0, 1, 0, ''), -- 105229 (Tiffany Nelson)
 (105231, 0, 0, 0, 1, 0, ''), -- 105231 (Sir Galveston)
 (99245, 0, 0, 0, 1, 0, ''), -- 99245 (Grommet)
 (105230, 0, 0, 0, 1, 0, ''), -- 105230 (Bodhi Sunwayver)
-(51601, 0, 0, 0, 1, 0, '95812 69641'), -- 51601 (Moonkin Hatchling) - Moonkin Hatchling Passive [DND], Gryphon/Wyvern Pet - Mounting Check Aura
 (105228, 0, 0, 0, 1, 0, ''), -- 105228 (Greg)
 (105241, 0, 0, 0, 1, 0, ''), -- 105241 (Splint Jr.)
 (82464, 0, 0, 0, 1, 0, ''), -- 82464 (Elekk Plushie)
 (105220, 0, 0, 0, 1, 0, ''), -- 105220 (Tournament Announcer)
 (97823, 0, 0, 50331648, 1, 0, ''), -- 97823 (Rocket)
 (111569, 0, 0, 0, 1, 0, ''), -- 111569 (Ms. Liddie)
-(91823, 0, 0, 0, 1, 0, '184506'), -- 91823 (Fel Pup) - Pet Sit/Sleep/Dance/Use/Special
-(54128, 0, 0, 0, 1, 0, '100947'), -- 54128 (Creepy Crate) - Creepy Crate Passive
-(51090, 0, 0, 0, 1, 0, '93971 93972'), -- 51090 (Singing Sunflower) - Sunflower (DND), Singing Sunflower (DND)
 (53623, 0, 0, 50331648, 1, 0, ''), -- 53623 (Cenarion Hatchling)
-(93539, 0, 0, 0, 257, 0, '60913 61354'), -- 93539 (Hobart Grapplehammer) - [DND] Dalaran - Shop Keeper Greeting, [DND] Dalaran - Shop Keeper Greeting
 (93520, 0, 0, 0, 257, 0, ''), -- 93520 (Didi the Wrench)
-(113781, 0, 0, 0, 0, 0, '42459'), -- 113781 (Li-An Skymirror) - Dual Wield
 (108076, 0, 0, 0, 1, 0, ''), -- 108076 ("Move Like No Other" Lan'dalock's Area Trigger Quest POI Blob)
 (92184, 0, 0, 0, 257, 0, ''), -- 92184 (Imindril Spearsong)
 (93188, 0, 0, 0, 257, 0, ''), -- 93188 (Mongar)
 (92185, 0, 0, 0, 257, 0, ''), -- 92185 (Braeg Stoutbeard)
 (92194, 0, 0, 0, 257, 0, ''), -- 92194 (Timofey Oshenko)
-(93521, 0, 0, 0, 257, 0, '60913'), -- 93521 (Ranid Glowergold) - [DND] Dalaran - Shop Keeper Greeting
 (96835, 0, 0, 0, 257, 0, ''), -- 96835 (Grindle Firespark)
 (96834, 0, 0, 0, 257, 0, ''), -- 96834 (Fabioso the Fabulous)
 (98931, 0, 0, 0, 257, 0, ''), -- 98931 (Thanid Glowergold)
@@ -165,7 +136,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (106196, 0, 0, 50331648, 1, 0, ''), -- 106196 (Generic Bunny - SCS)
 (114719, 0, 0, 0, 1, 0, ''), -- 114719 (Trader Caelen)
 (106655, 0, 0, 0, 257, 0, ''), -- 106655 (Arcanomancer Vridiel)
-(92183, 0, 0, 0, 257, 0, '196324'), -- 92183 (Alard Schmied) - Ashbringer Recognition
 (115264, 0, 0, 0, 1, 0, ''), -- 115264 (Illnea Bloodthorn)
 (96845, 0, 0, 0, 257, 0, ''), -- 96845 (Mona Everspring)
 (96844, 0, 0, 0, 257, 0, ''), -- 96844 (Whirt the All-Knowing)
@@ -175,7 +145,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (112012, 0, 0, 0, 1, 0, ''), -- 112012 (Sir Jonathan Trueheart)
 (112007, 0, 0, 0, 1, 0, ''), -- 112007 (Mel Lynchen)
 (92464, 0, 0, 0, 257, 0, ''), -- 92464 (Kuhuine Tenderstride)
-(92457, 0, 0, 0, 257, 0, '60913'), -- 92457 (Patricia Egan) - [DND] Dalaran - Shop Keeper Greeting
 (92456, 0, 0, 0, 257, 0, ''), -- 92456 (Linzy Blackbolt)
 (96808, 0, 0, 0, 1, 0, ''), -- 96808 (Sandra Bartan)
 (96198, 0, 0, 0, 1, 0, ''), -- 96198 (Catriona Macrae)
@@ -191,7 +160,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (96809, 0, 0, 0, 1, 0, ''), -- 96809 (Arille Azuregaze)
 (109739, 0, 0, 0, 1, 0, ''), -- 109739 (Tyrande Whisperwind)
 (103120, 0, 0, 0, 1, 0, ''), -- 103120 (Dalaran Citizen)
-(108925, 0, 0, 0, 1, 0, '215919'), -- 108925 (Lord Adder) - Truthguard Area Trigger
 (112437, 0, 0, 0, 1, 0, ''), -- 112437 (Roscoe)
 (96828, 0, 0, 0, 257, 0, ''), -- 96828 (Bitty Frostflinger)
 (113775, 0, 0, 1, 1, 0, ''), -- 113775 (Punchy Lou)
@@ -200,9 +168,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (96807, 0, 0, 0, 257, 0, ''), -- 96807 (Afsaneh Asrar)
 (96812, 0, 0, 0, 257, 0, ''), -- 96812 (Elizabeth Ross)
 (112456, 0, 0, 0, 1, 0, ''), -- 112456 (Rachele)
-(97005, 0, 0, 0, 257, 0, '60913'), -- 97005 (Debbi Moore) - [DND] Dalaran - Shop Keeper Greeting
-(113900, 0, 0, 0, 1, 0, '226952'), -- 113900 (Liyana) - Cosmetic - Drink Mug
-(72587, 0, 0, 50331648, 1, 0, '233077'), -- 72587 (VFX Bunny) - -Unknown-
 (96832, 0, 0, 0, 257, 0, ''), -- 96832 (Crafticus Mindbender)
 (106843, 0, 0, 0, 1, 0, ''), -- 106843 (Prince Farondis)
 (106815, 0, 0, 0, 1, 0, ''), -- 106815 ("The Tidestone of Golganneth" Teleport Used Quest Kill Credit ELM)
@@ -211,7 +176,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (97002, 0, 0, 0, 257, 0, ''), -- 97002 (Ninsianna)
 (107587, 0, 0, 0, 1, 0, ''), -- 107587 ("The Hammer of Khaz'goroth" Teleport Used Quest Kill Credit)
 (92458, 0, 0, 0, 257, 0, ''), -- 92458 (Deucus Valdera)
-(113901, 0, 0, 0, 1, 0, '226952'), -- 113901 (Crixa) - Cosmetic - Drink Mug
 (116408, 0, 0, 0, 1, 0, ''), -- 116408 (Glowing Red Gem)
 (110621, 0, 0, 0, 1, 0, ''), -- 110621 (Erika Page)
 (110623, 0, 0, 0, 1, 0, ''), -- 110623 (Sunny)
@@ -220,7 +184,6 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (124678, 0, 0, 0, 257, 0, ''), -- 124678
 (116420, 0, 0, 0, 1, 0, ''), -- 116420 (Glowing Blue Gem)
 (116419, 0, 0, 0, 1, 0, ''), -- 116419 (Glowing Green Gem)
-(117448, 0, 0, 1, 1, 0, '233861'), -- 117448 (Cinnamon) - -Unknown-
 (96792, 0, 0, 0, 1, 0, ''), -- 96792 (Inzi Charmlight)
 (93534, 0, 0, 0, 1, 0, ''), -- 93534 (Katherine Lee)
 (96791, 0, 0, 0, 1, 0, ''), -- 96791 (Marcella Bloom)
@@ -231,38 +194,26 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (93545, 0, 0, 0, 1, 0, ''), -- 93545 (Bradford Duncan)
 (96793, 0, 0, 0, 1, 0, ''), -- 96793 (Stefen Cotter)
 (96840, 0, 0, 0, 257, 0, ''), -- 96840 (Sabriana Sorrowgaze)
-(92460, 0, 0, 0, 257, 0, '60913'), -- 92460 (Edward Egan) - [DND] Dalaran - Shop Keeper Greeting
 (92459, 0, 0, 0, 257, 0, ''), -- 92459 (Dorothy Egan)
-(96949, 0, 0, 0, 0, 0, '79892'), -- 96949 (Farseer Lopaa) - Water Shield
-(96948, 0, 0, 0, 0, 0, '10022'), -- 96948 (Pathstalker Gilen) - Deadly Poison
 (96950, 0, 0, 0, 0, 0, ''), -- 96950 (Summoner Mazek)
 (96944, 0, 0, 0, 0, 0, ''), -- 96944 (Muran Fairden)
-(96947, 0, 0, 0, 0, 0, '48168'), -- 96947 (Matron Nessa) - Inner Fire
 (96841, 0, 0, 0, 257, 0, ''), -- 96841 (Emeline Fizzlefry)
 (97003, 0, 0, 0, 257, 0, ''), -- 97003 (Sheddle Glossgleam)
 (96945, 0, 0, 0, 0, 0, ''), -- 96945 (Ranger Bodine)
-(96990, 0, 0, 0, 257, 0, '196266'), -- 96990 (Applebough) - G'Hanir  Recognition
 (112717, 0, 0, 0, 1, 0, ''), -- 112717 (Ginger Blockgear)
 (114730, 0, 0, 0, 1, 0, ''), -- 114730 (Caeli)
-(93526, 0, 0, 0, 257, 0, '60913 186310'), -- 93526 (Tiffany Cartier) - [DND] Dalaran - Shop Keeper Greeting, Working
 (96484, 0, 0, 0, 257, 0, ''), -- 96484 (Clockwork Assistant)
 (97685, 0, 0, 0, 1, 0, ''), -- 97685 (Gnolie)
 (112720, 0, 0, 0, 1, 0, ''), -- 112720 (Jemma Wilson)
 (96951, 0, 0, 0, 0, 0, ''), -- 96951 (Naseev)
-(96946, 0, 0, 0, 0, 0, '79962'), -- 96946 (Varlean) - Seal of Righteousness
-(92195, 0, 0, 0, 257, 0, '189193'), -- 92195 (Professor Pallin) - Working
 (93522, 0, 0, 0, 257, 0, ''), -- 93522 (Diane Cannings)
 (106359, 0, 0, 50331648, 1, 0, ''), -- 106359 (Runed Ladder)
-(93544, 0, 0, 0, 257, 0, '60913'), -- 93544 (Jang Quillpaw) - [DND] Dalaran - Shop Keeper Greeting
 (96967, 0, 0, 0, 1, 0, ''), -- 96967 (Shandy Glossgleam)
 (96483, 0, 0, 0, 257, 0, ''), -- 96483 (Jepetto Joybuzz)
 (112716, 0, 0, 0, 1, 0, ''), -- 112716 (Rasil Fireborne)
-(93532, 0, 0, 0, 257, 0, '60913'), -- 93532 (Jessica Sellers) - [DND] Dalaran - Shop Keeper Greeting
-(93527, 0, 0, 0, 257, 0, '50200'), -- 93527 (Timothy Jones) - Cosmetic - Right Hand Sparkle
 (96968, 0, 0, 0, 1, 0, ''), -- 96968 (Aquanos)
 (93533, 0, 0, 0, 257, 0, ''), -- 93533 (Theresa Wolf)
 (93543, 0, 0, 0, 257, 0, ''), -- 93543 (Sminx Glasseye)
-(93524, 0, 0, 0, 257, 0, '190913'), -- 93524 (Lalla Brightweave) - Teleport
 (32494, 0, 0, 0, 1, 0, ''), -- 32494 (Dalaran Child)
 (93525, 0, 0, 0, 257, 0, ''), -- 93525 (Ainderu Summerleaf)
 (99867, 0, 0, 0, 257, 0, ''), -- 99867 (Warpweaver Tuviss)
@@ -271,14 +222,11 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (93531, 0, 0, 0, 257, 0, ''), -- 93531 (Enchanter Nalthanis)
 (96975, 0, 0, 0, 257, 0, ''), -- 96975 (Paldesse)
 (96839, 0, 0, 0, 257, 0, ''), -- 96839 (The Magnificent Merleaux)
-(97342, 0, 0, 0, 257, 0, '60913'), -- 97342 (Salan Sunthread) - [DND] Dalaran - Shop Keeper Greeting
-(105723, 0, 0, 0, 1, 0, '209479'), -- 105723 (Vicktor Ebonfall) - Aquatic Lounge
 (93530, 0, 0, 0, 257, 0, ''), -- 93530 (Ildine Sorrowspear)
 (97332, 0, 0, 0, 257, 0, ''), -- 97332 (Richard Hatstock)
 (96838, 0, 0, 0, 257, 0, ''), -- 96838 (Kitz Proudbreeze)
 (108792, 0, 0, 0, 257, 0, ''), -- 108792 (Jenny McCree)
 (96987, 0, 0, 0, 257, 0, ''), -- 96987 (Norvin Alderman)
-(97718, 0, 0, 0, 257, 0, '60913'), -- 97718 (Vanessa Sellers) - [DND] Dalaran - Shop Keeper Greeting
 (108323, 0, 0, 0, 1, 0, ''), -- 108323 (Gilnean Guard)
 (107492, 0, 0, 0, 1, 0, ''), -- 107492 (Foof)
 (111565, 0, 0, 0, 1, 0, ''), -- 111565 (Amalia)
@@ -289,21 +237,16 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (93529, 0, 0, 0, 257, 0, ''), -- 93529 (Olisarra the Kind)
 (105564, 0, 0, 0, 1, 0, ''), -- 105564 (Injured Kirin Tor Guardian)
 (112553, 0, 0, 0, 1, 0, ''), -- 112553 (Wintron)
-(105332, 0, 0, 262144, 1, 0, '159474'), -- 105332 (Desmond Gravesorrow) - Permanent Feign Death (NO Stun, Untrackable, Immune)
-(105339, 0, 0, 0, 1, 0, '207424'), -- 105339 (Shadowgore Darkcaster) - Shadowform
 (106528, 0, 0, 50331648, 1, 0, ''), -- 106528 (Flower Pot)
 (97725, 0, 0, 0, 0, 0, ''), -- 97725 (Priestess of Elune)
 (97212, 0, 0, 0, 1, 0, ''), -- 97212 (7.0 Dalaran - Shopkeeper - Dummy)
 (112554, 0, 0, 0, 1, 0, ''), -- 112554 (Pesky Bug)
-(96771, 0, 0, 0, 1, 0, '18950 12544'), -- 96771 (Warmage Lukems) - Invisibility and Stealth Detection, Frost Armor
-(96770, 0, 0, 0, 1, 0, '18950 12544'), -- 96770 (Warmage Mumplina) - Invisibility and Stealth Detection, Frost Armor
 (106930, 0, 0, 0, 0, 0, ''), -- 106930 (Lieutenant Surtees)
 (113784, 0, 0, 1, 1, 0, ''), -- 113784 (Classic Larry)
 (96772, 0, 0, 0, 257, 0, ''), -- 96772 (Warmage Kath'leen)
 (97692, 0, 0, 0, 0, 0, ''), -- 97692 (Brother of the Light)
 (104091, 0, 0, 0, 257, 0, ''), -- 104091 (Kirin Tor Guardian)
 (90463, 0, 0, 0, 0, 0, ''), -- 90463 (Archmage Karlain)
-(107968, 0, 0, 0, 0, 0, '212171'), -- 107968 (Archmage Lan'dalock) - Read Scroll
 (113873, 0, 0, 0, 1, 0, ''), -- 113873 (Archivist Elysiana)
 (90417, 0, 0, 0, 0, 0, ''), -- 90417 (Archmage Khadgar)
 (105081, 0, 0, 0, 1, 0, ''), -- 105081 (Archmage Kalec)
@@ -318,7 +261,69 @@ INSERT INTO `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `b
 (101436, 0, 0, 50331648, 1, 0, ''), -- 101436 (Wormhole)
 (115468, 0, 0, 0, 0, 0, ''), -- 115468 (Archmage Karlain)
 (54638, 0, 0, 50331648, 1, 0, ''), -- 54638 (Generic Bunny)
-(118506, 0, 0, 0, 1, 0, ''); -- 118506 (Sunreaver Spellblade)
+(118506, 0, 0, 0, 1, 0, ''), -- 118506 (Sunreaver Spellblade)
+(108938, 0, 0, 0, 1, 0, '215703'), -- 108938 (Lord Adder) - Hidden
+(98506, 0, 0, 0, 1, 0, '193955'), -- 98506 (Dust Bunny) - Dust Bunny Visual
+(96771, 0, 0, 0, 1, 0, '18950 12544'), -- 96771 (Warmage Lukems) - Invisibility and Stealth Detection, Frost Armor
+(96770, 0, 0, 0, 1, 0, '18950 12544'), -- 96770 (Warmage Mumplina) - Invisibility and Stealth Detection, Frost Armor
+(107968, 0, 0, 0, 0, 0, '212171'), -- 107968 (Archmage Lan'dalock) - Read Scroll
+(105332, 0, 0, 262144, 1, 0, '159474'), -- 105332 (Desmond Gravesorrow) - Permanent Feign Death (NO Stun, Untrackable, Immune)
+(105339, 0, 0, 0, 1, 0, '207424'), -- 105339 (Shadowgore Darkcaster) - Shadowform
+(105332, 0, 0, 262144, 1, 0, '159474'), -- 105332 (Desmond Gravesorrow) - Permanent Feign Death (NO Stun, Untrackable, Immune)
+(105339, 0, 0, 0, 1, 0, '207424'), -- 105339 (Shadowgore Darkcaster) - Shadowform
+(105332, 0, 0, 262144, 1, 0, '159474'), -- 105332 (Desmond Gravesorrow) - Permanent Feign Death (NO Stun, Untrackable, Immune)
+(105339, 0, 0, 0, 1, 0, '207424'), -- 105339 (Shadowgore Darkcaster) - Shadowform
+(97342, 0, 0, 0, 257, 0, '60913'), -- 97342 (Salan Sunthread) - [DND] Dalaran - Shop Keeper Greeting
+(105723, 0, 0, 0, 1, 0, '209479'), -- 105723 (Vicktor Ebonfall) - Aquatic Lounge
+(97718, 0, 0, 0, 257, 0, '60913'), -- 97718 (Vanessa Sellers) - [DND] Dalaran - Shop Keeper Greeting
+(93524, 0, 0, 0, 257, 0, '190913'), -- 93524 (Lalla Brightweave) - Teleport
+(93532, 0, 0, 0, 257, 0, '60913'), -- 93532 (Jessica Sellers) - [DND] Dalaran - Shop Keeper Greeting
+(93527, 0, 0, 0, 257, 0, '50200'), -- 93527 (Timothy Jones) - Cosmetic - Right Hand Sparkle
+(93544, 0, 0, 0, 257, 0, '60913'), -- 93544 (Jang Quillpaw) - [DND] Dalaran - Shop Keeper Greeting
+(96946, 0, 0, 0, 0, 0, '79962'), -- 96946 (Varlean) - Seal of Righteousness
+(92195, 0, 0, 0, 257, 0, '189193'), -- 92195 (Professor Pallin) - Working
+(93526, 0, 0, 0, 257, 0, '60913 186310'), -- 93526 (Tiffany Cartier) - [DND] Dalaran - Shop Keeper Greeting, Working
+(121541, 0, 0, 0, 1, 0, '46598'), -- 121541 (Ban-Lu) - Ride Vehicle Hardcoded
+(97004, 0, 0, 0, 1, 0, '60913'), -- 97004 ("Red" Jack Findle) - [DND] Dalaran - Shop Keeper Greeting
+(96990, 0, 0, 0, 257, 0, '196266'), -- 96990 (Applebough) - G'Hanir  Recognition
+(96947, 0, 0, 0, 0, 0, '48168'), -- 96947 (Matron Nessa) - Inner Fire
+(96949, 0, 0, 0, 0, 0, '79892'), -- 96949 (Farseer Lopaa) - Water Shield
+(96948, 0, 0, 0, 0, 0, '10022'), -- 96948 (Pathstalker Gilen) - Deadly Poison
+(92460, 0, 0, 0, 257, 0, '60913'), -- 92460 (Edward Egan) - [DND] Dalaran - Shop Keeper Greeting
+(117448, 0, 0, 1, 1, 0, '233861'), -- 117448 (Cinnamon) - -Unknown-
+(113901, 0, 0, 0, 1, 0, '226952'), -- 113901 (Crixa) - Cosmetic - Drink Mug
+(62821, 0, 0, 0, 1, 0, '122729 123236'), -- 62821 (Mystic Birdhat) - Grand Expedition Yak, Grummle Booth A
+(62822, 0, 0, 0, 1, 0, '122729 123240'), -- 62822 (Cousin Slowhands) - Grand Expedition Yak, Grummle Booth B
+(97005, 0, 0, 0, 257, 0, '60913'), -- 97005 (Debbi Moore) - [DND] Dalaran - Shop Keeper Greeting
+(113900, 0, 0, 0, 1, 0, '226952'), -- 113900 (Liyana) - Cosmetic - Drink Mug
+(72587, 0, 0, 50331648, 1, 0, '233077'), -- 72587 (VFX Bunny) - -Unknown-
+(91823, 0, 0, 0, 1, 0, '184506'), -- 91823 (Fel Pup) - Pet Sit/Sleep/Dance/Use/Special
+(54128, 0, 0, 0, 1, 0, '100947'), -- 54128 (Creepy Crate) - Creepy Crate Passive
+(51090, 0, 0, 0, 1, 0, '93971 93972'), -- 51090 (Singing Sunflower) - Sunflower (DND), Singing Sunflower (DND)
+(108925, 0, 0, 0, 1, 0, '215919'), -- 108925 (Lord Adder) - Truthguard Area Trigger
+(96778, 0, 0, 0, 258, 0, '60913 61354'), -- 96778 (Aemara) - [DND] Dalaran - Shop Keeper Greeting, [DND] Dalaran - Shop Keeper Greeting
+(92457, 0, 0, 0, 257, 0, '60913'), -- 92457 (Patricia Egan) - [DND] Dalaran - Shop Keeper Greeting
+(93539, 0, 0, 0, 257, 0, '60913 61354'), -- 93539 (Hobart Grapplehammer) - [DND] Dalaran - Shop Keeper Greeting, [DND] Dalaran - Shop Keeper Greeting
+(92183, 0, 0, 0, 257, 0, '196324'), -- 92183 (Alard Schmied) - Ashbringer Recognition
+(51601, 0, 0, 0, 1, 0, '95812 69641'), -- 51601 (Moonkin Hatchling) - Moonkin Hatchling Passive [DND], Gryphon/Wyvern Pet - Mounting Check Aura
+(93521, 0, 0, 0, 257, 0, '60913'), -- 93521 (Ranid Glowergold) - [DND] Dalaran - Shop Keeper Greeting
+(113781, 0, 0, 0, 0, 0, '42459'), -- 113781 (Li-An Skymirror) - Dual Wield
+(99185, 0, 0, 33554432, 1, 0, '78686'), -- 99185 (Coach) - Gold Mini Jouster Effects
+(110019, 0, 0, 0, 1, 0, '213811'), -- 110019 (Bruiser Toppleblade) - Hold Rifle
+(108710, 0, 0, 33554432, 1, 0, '215900'), -- 108710 (Guardian Orb) - Guardian Orb
+(96782, 0, 0, 0, 1, 0, '210063'), -- 96782 (Lucian Trias) - Player Cleared
+(113779, 0, 0, 0, 0, 0, '42459'), -- 113779 (Sister Might) - Dual Wield
+(96957, 0, 0, 0, 0, 0, '79892'), -- 96957 (Murgha the Tempered) - Water Shield
+(96954, 0, 0, 0, 0, 0, '79962'), -- 96954 (Nelur Lightsown) - Seal of Righteousness
+(96956, 0, 0, 0, 0, 0, '10022'), -- 96956 (Pathstalker Rislar) - Deadly Poison
+(96955, 0, 0, 0, 0, 0, '48168'), -- 96955 (Matron Ossela) - Inner Fire
+(58237, 0, 0, 0, 1, 0, '55474'), -- 58237 (Tweek) - Cosmetic - Sleep Zzz
+(103092, 0, 0, 0, 1, 0, '203826'), -- 103092 (The Great Akazamzarak) - Akazamzarak's Hat
+(96479, 0, 0, 0, 257, 0, '60913 61354'), -- 96479 (Breanni) - [DND] Dalaran - Shop Keeper Greeting, [DND] Dalaran - Shop Keeper Greeting
+(99350, 0, 0, 0, 1, 0, '223977'), -- 99350 (Shannon Noel) - Cosmetic - Reading Book
+(108628, 0, 0, 0, 0, 0, '215919'), -- 108628 (Armond Thaco) - Truthguard Area Trigger
+(113783, 0, 0, 0, 0, 0, '42459'), -- 113783 (Savash Windcalller) - Dual Wield
+(107326, 0, 0, 0, 257, 0, '60913'); -- 107326 (Draemus) - [DND] Dalaran - Shop Keeper Greeting
 
 -- Few manual updates
 UPDATE `creature_template_addon` SET `auras`='61424' WHERE `entry`=32639; -- 32639 (Gnimo)
